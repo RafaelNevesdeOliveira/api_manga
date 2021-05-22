@@ -527,7 +527,7 @@
         "affectsGlobalScope": false
       },
       "../program.ts": {
-        "version": "bdab6dc2d5565a8cdd5d4b9b35ccacf26a1fc670cbd901fc35fb3c667338fe29",
+        "version": "afdd8ddb86a5bd7bf662a274dfbe47652ae8802b38038d747c1836f41a7b6e0b",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
         "affectsGlobalScope": false
       }
