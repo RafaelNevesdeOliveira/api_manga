@@ -10,8 +10,6 @@ npm i  typescript  express  mongoose  --save
 npm i  @types/express @types/mongoose --save-dev
 ```
 
-Then generate your new project:
-
 ## This project was configured with:
 
  * Typescript.
